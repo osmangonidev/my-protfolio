@@ -6,7 +6,7 @@ body{
 }
 section{
     height: 500px;
-    padding-bottom: 50px;
+    padding-bottom: 100px;
 }
 .half{
     width: 40%;
@@ -35,10 +35,19 @@ a{
     font-weight: bold;
     border-radius: 5px;
 }
+.intro{
+    background-image: url(img/top-banner.png);
+    background-repeat: no-repeat;
+}
 .highlight{
     color: rgb(94, 20, 163);
 }
 .half img{
     width: 100%;
    
+}
+.dream{
+    background-image: url(img/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
 }
